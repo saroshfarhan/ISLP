@@ -1,6 +1,6 @@
 ### This is the answersheet(as per my understanding) of the conceptual excercises given in book.
 
-1. For each of parts (a) through (d), indicate whether we would generally expect the performance of a flexible statistical learning method to be better or worse than an inflexible method. Justify your answer.<br/><br/>
+Q1. For each of parts (a) through (d), indicate whether we would generally expect the performance of a flexible statistical learning method to be better or worse than an inflexible method. Justify your answer.<br/><br/>
 
 (a) The sample size n is extremely large, and the number of predictors p is small.<br/>
 Ans:
